@@ -1,0 +1,26 @@
+{
+  "name": "react-ssr",
+  "version": "1.0.0",
+  "description": "React SSR project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordGemma/react-ssr.git"
+  },
+  "author": "Vadym Aminov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordGemma/react-ssr/issues"
+  },
+  "homepage": "https://github.com/LordGemma/react-ssr#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
